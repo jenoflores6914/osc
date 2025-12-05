@@ -14,3 +14,4 @@ Notes and usage details for osc.
 - clarify the setup steps
 - link the usage section
 - clarify the setup steps
+- link the usage section
